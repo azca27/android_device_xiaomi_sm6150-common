@@ -73,6 +73,15 @@
                 android:targetClass="com.dolby.daxappui.MainActivity" />
     </Preference>
 
+    <Preference
+         android:key="viper"
+         android:title="@string/viper">
+
+         <intent android:targetPackage="com.pittvandewitt.viperfx"
+                 android:action="android.intent.action.MAIN"
+                 android:targetClass="com.pittvandewitt.viperfx.MainActivity" />
+    </Preference>
+
     </PreferenceCategory>
 
     <PreferenceCategory

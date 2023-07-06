@@ -110,4 +110,5 @@
     <string name="audio">Audio</string>
     <string name="power">Battery Section</string>
     <string name="kprofile">KProfiles</string>
+    <string name="viper">ViperForAndroid Fx</string>
 </resources>
